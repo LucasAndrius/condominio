@@ -1,0 +1,2065 @@
+[33mcommit fa1d719ab97f0ec7a0fcc91cacc534d496f1716f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Lucas Andrius de Oliveira <74381770+LucasAndrius@users.noreply.github.com>
+Date:   Fri Feb 26 01:08:50 2021 -0300
+
+    first commit
+
+[33mcommit 9d5ba97b4d7ab7d2adbb09b8a2c74d4f00fadbcc[m[33m ([m[1;33mtag: 3.2.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:13:12 2020 +0100
+
+    chore: 3.2.0 release for React 17
+
+[33mcommit f3f91c5d721754a2dac26143f312415c94c7ed68[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:12:10 2020 +0100
+
+    test: refactor, import temp update
+
+[33mcommit ed83c9a3d4199b8c6566a6e01396cdcbca80cf42[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:11:09 2020 +0100
+
+    fix(_nav): no anonymous default export
+
+[33mcommit f0c05858329430c9487bdcfcf36d0aa98f60776d[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:09:23 2020 +0100
+
+    fix(BrandButtons): minor temp fixes with stylings
+
+[33mcommit 9522ade1f1eb2c5a26d5208fe6e44be803123bd2[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:08:27 2020 +0100
+
+    refactor: polyfills cleanup
+
+[33mcommit f6a710ffd6996c9b6b026b8eebed6ff390757fe1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:04:35 2020 +0100
+
+    chore: React 17 and dependencies update
+
+[33mcommit f9f19274f046cf5f11f68d6c7eb7ae04c553f219[m[33m ([m[1;33mtag: 3.1.1[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:39:21 2020 +0100
+
+    chore: changelog update
+
+[33mcommit 081b957291a8020e3d2e3b42c1f0a1455a49c524[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:36:55 2020 +0100
+
+    chore: 3.1.1 release
+
+[33mcommit ba21e001944322fb48e43264719b94368c589732[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:29:50 2020 +0100
+
+    chore: .gitignore cleanup
+
+[33mcommit 5b70904d8f22f61a71def3306ea96ad640573c39[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:29:17 2020 +0100
+
+    chore: dependencies update
+    
+        "@coreui/coreui": "^3.4.0",
+        "@coreui/icons": "^2.0.0-rc.0",
+        "@coreui/react": "^3.3.4",
+        "core-js": "^3.8.0",
+        "enzyme-adapter-react-16": "^1.15.5",
+        "react": "^16.14.0",
+        "react-app-polyfill": "^2.0.0",
+        "react-dom": "^16.14.0",
+        "react-redux": "^7.2.2",
+        "auto-changelog": "~2.2.1",
+        "react-scripts": "~4.0.1"
+
+[33mcommit b661344485a38404b8c2b1326e3a4258009b071c[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Aug 13 15:03:37 2020 +0200
+
+    chore: add migration docs
+
+[33mcommit 6ac9a1d094d4d293ddacb3f3562216a98be8e129[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:11:10 2020 +0200
+
+    chore: limit changelog to version 3
+
+[33mcommit de605cc1aadec9fb066625c6bc7b656590efc7bb[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:08:24 2020 +0200
+
+    chore: add changelog
+
+[33mcommit cd2393161243266189ca318f31a42dbc51f60e35[m[33m ([m[1;33mtag: 3.1.0[m[33m)[m
+Merge: 92f55b8 b7d8029
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:05:10 2020 +0200
+
+    Merge branch 'master' of https://github.com/coreui/coreui-free-react-admin-template
+
+[33mcommit 92f55b8cdfd748a9e72649d5da62b93015a1c8e6[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:03:43 2020 +0200
+
+    chore: 3.1.0 release - update dependencies
+
+[33mcommit b31e452fd0ea736763d3032d7204cd478863b505[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 16:57:49 2020 +0200
+
+    feat: add CSwitch examples to forms
+
+[33mcommit eef84dbbd770c7253080a6f69443c40e4fecefd2[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 15:50:40 2020 +0200
+
+    refactor: add reusable folder with DocsLink component
+
+[33mcommit be5d1f0618f981f18c45be87afb56c4409bd3389[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Jul 30 12:37:29 2020 +0200
+
+    refactor: add CIcon example in _nav.js
+
+[33mcommit 68ce41db6831d6995121766a5771dc9d667cc61a[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Jul 30 12:32:59 2020 +0200
+
+    fix: fix template testing
+
+[33mcommit b7d80299583cd1aa82000fcabaac910967f68f5e[m
+Author: Shailesh Ladumor <shaileshmladumor@gmail.com>
+Date:   Thu Jun 25 13:49:46 2020 +0530
+
+    docs(readme): CoreUI react theme setup with laravel tutorial link add into readme (#226)
+
+[33mcommit 52163bbf8f1831e14f2b7a647c4854ade3c990ed[m[33m ([m[1;33mtag: 3.0.0[m[33m)[m
+Merge: fd5236d db85786
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 17 15:45:39 2020 +0200
+
+    Merge branch 'master' of https://github.com/coreui/coreui-free-react-admin-template
+
+[33mcommit fd5236d47340b336bf641041cbf6d48ec8b1081a[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 17 15:45:12 2020 +0200
+
+    chore: 3.0.0 version release - update dependencies
+
+[33mcommit db85786be465fdb7a84b7337dbe876afc5e957bc[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 15:10:20 2020 +0200
+
+    docs: add license
+
+[33mcommit 82a4351daa6c8d452e19c7141dbadecc3f721c1b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 14:53:18 2020 +0200
+
+    docs: README cleanup
+
+[33mcommit 188e0b1c09fd7d47dc87d0410303ae43e8ee79de[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 14:48:13 2020 +0200
+
+    docs: README update
+
+[33mcommit 98f8b677edb96f9175b7d4c20370c3d6744543bd[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 10 10:27:40 2020 +0200
+
+    feat: add query parameters to Users view
+
+[33mcommit 8e4fbc2aa8786b00a004282260c52986e1cd2430[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Mon Jun 8 13:58:51 2020 +0200
+
+    refactor: update icons to version 2, rtl fixes
+
+[33mcommit 1df8c15030d45779f6adc5031153eaff09701d97[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Mon Jun 1 18:34:07 2020 +0200
+
+    refacotor: template updates
+
+[33mcommit 1777a092f6444497120e85c8852a1e4779640e71[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 16:52:58 2020 +0200
+
+    fix: fix Icons views
+
+[33mcommit 9fed168a534b88cb27371d6364b922418a5a13b4[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 16:45:37 2020 +0200
+
+    refactor: optimize icon bundle size, update icons
+
+[33mcommit 8c0deeed169267155323a5b6bdbbdfaf8a856a41[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 10:40:33 2020 +0200
+
+    refactor: turn logos extensions from svg to js
+
+[33mcommit 75138b0d0340cc21d58bcc2f800f042f86e54346[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 10:18:26 2020 +0200
+
+    refactor: update folder casing to kebab-case
+
+[33mcommit cb4433a3e33cb943bc1f47199110ead28fab517b[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 10:06:35 2020 +0200
+
+    refactor: temporarily delete views folder
+
+[33mcommit 5aa0cc3ce15c841032cd75392418cfeb2e4d094f[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Tue May 26 13:24:31 2020 +0200
+
+    chore: update react.md
+
+[33mcommit d940f92ef741d7eab021af4fbcf385823c80421a[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Tue May 26 13:16:49 2020 +0200
+
+    chore: 3.0.0-beta.1 release
+
+[33mcommit 1ee05619ba15d050b73df21c8d1347e8329942d5[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Tue May 26 13:11:29 2020 +0200
+
+    fix: delete unneded icons, aside, fix readme.md
+
+[33mcommit 0e6506ea3303ca30bc21ba2bcf3717a3f009dc8c[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Mon May 25 11:45:29 2020 +0200
+
+    fix: fix accordion, delete aside
+
+[33mcommit e236aad4ab0129e3611adfc2127670da64696e54[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Fri May 22 12:56:45 2020 +0200
+
+    chore: clear packages
+
+[33mcommit bfc79da4039dd534ee49b4526978f7b949cea90b[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Fri May 22 12:29:10 2020 +0200
+
+    refactor: rename containers from 'Default' to 'The', small fixes
+
+[33mcommit f479a5dc72bb5bb75b95a4b904d1c350be8fe7bc[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Fri May 22 12:23:10 2020 +0200
+
+    fix: delete obsolete files, fix logos
+
+[33mcommit cc795425bbf610873fcdf6938b5fb0aba49a4d97[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Fri May 22 11:23:29 2020 +0200
+
+    feat: update template to version 3
+
+[33mcommit 0350bfdb42cb208b77e226e60c06437b64a3660f[m[33m ([m[1;33mtag: v2.6.1[m[33m, [m[1;31morigin/v2[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 19 00:13:49 2020 +0200
+
+    Ship: v2.6.1
+
+[33mcommit 01f35553852ba62880c6841451e2f5be201d1a2f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 19 00:12:29 2020 +0200
+
+    chore: dependencies update
+    
+    - update: `@coreui/coreui` to `^2.1.16`
+    - update: `@coreui/react` to `^2.5.7`
+    - update: `bootstrap` to `^4.5.0`
+    - update: `chart.js` to `^2.9.3`
+    - update: `core-js` to `^3.6.5`
+    - update: `enzyme` to `^3.11.0`
+    - update: `enzyme-adapter-react-16` to `^1.15.2`
+    - update: `flag-icon-css` to `^3.4.6`
+    - update: `node-sass` to `^4.14.1`
+    - update: `react` to `^16.13.1`
+    - update: `react-app-polyfill` to `^1.0.6`
+    - update: `react-chartjs-2` to `^2.9.0`
+    - update: `react-dom` to `^16.13.1`
+    - update: `react-router-config` to `^5.1.1`
+    - update: `react-router-dom` to `^5.2.0`
+    - update: `react-test-renderer` to `^16.13.1`
+    - update: `reactstrap` to `^8.4.1`
+    - update: `react-scripts` to `^3.4.1`
+
+[33mcommit 5e57e2aef2da476d22ba8e42b9bbb5703dc50450[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 19 00:11:41 2020 +0200
+
+    refactor(polyfill): cleanup
+
+[33mcommit 41f1d26a7800516d0191932518a93b8668357fa5[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 19 00:10:56 2020 +0200
+
+    fix(Dropdowns): DropdownMenu right
+
+[33mcommit ef25cc4202d2278d30c0657e578edbfcb4598747[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 19 00:07:19 2020 +0200
+
+    fix(Dashboard): scales.[x/y]Axes.barPercentage is deprecated, use dataset.barPercentage instead
+
+[33mcommit b9626a8ae66834006ee86b758cdc81f74fb20531[m[33m ([m[1;33mtag: v2.6.0[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 21:24:55 2019 +0200
+
+    v2.6.0 version bump
+
+[33mcommit 08b932dec8795256463ec3f783cc97c73104d083[m
+Merge: 987c94f d142eff
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:57:29 2019 +0200
+
+    Merge pull request #184 from coreui/dev-v2.6
+    
+    v2.6.0
+
+[33mcommit 987c94f8cae38745978762a32f40827dec55899c[m
+Merge: e115106 720c760
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:56:47 2019 +0200
+
+    Merge pull request #182 from BrunoSette/master
+    
+    Readme Typo
+
+[33mcommit d142eff79f594bd7930c8123ce8fe5b52419d6c6[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:55:24 2019 +0200
+
+    Ship: v2.6.0
+
+[33mcommit 770cfcf5e516cd27bbbf6b46cbcbd1b3c87551de[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:54:05 2019 +0200
+
+    fix(DefaultHeader): replace `AppHeaderDropdown` with `UncontrolledDropdown`
+
+[33mcommit 969bc8593af27c55058cade46adb71469eb93c7a[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:52:55 2019 +0200
+
+    refactor: add ie polyfills
+
+[33mcommit f99dfd7ce70070b83ccfc521c21ca0890ca0a812[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jun 17 20:51:24 2019 +0200
+
+    chore: dependencies update
+    
+    - update: `@coreui/coreui` to `^2.1.12`
+    - update: `@coreui/coreui-plugin-chartjs-custom-tooltips` to `^1.3.1`
+    - update: `@coreui/react` to `^2.5.1`
+    - update: `core-js` to `^3.1.4`
+    - update: `enzyme` to `^3.10.0`
+    - update: `enzyme-adapter-react-16` to `^1.14.0`
+    - update: `react-router-config` to `^5.0.1`
+    - update: `react-router-dom` to `^5.0.1`
+    - update: `reactstrap` to `^8.0.0`
+
+[33mcommit 720c760d72e038330406bf7b6faea85c608ed260[m
+Author: Bruno Sette <brunosette@gmail.com>
+Date:   Mon May 20 16:37:59 2019 -0300
+
+    Readme Typo
+
+[33mcommit e115106945922f16a668c125091c5e0b7977b769[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri May 17 17:02:25 2019 +0200
+
+    chore: changelog v2.5.0 update
+    
+    It turns out this is not such a breaking change, as it seemed at a
+    glance.
+    Just update dependencies and you're good.
+    
+    - update `dependencies` in `package.json`
+       - [ ] `@coreui/react` to `~2.5.0`
+       - [ ] `react-router-dom` to `^5.0.0`
+       - [ ] `react-router-config` to `^5.0.0`
+
+[33mcommit dbe9ec9858784c16b65014f8016807d471534e0f[m[33m ([m[1;33mtag: v2.5.0[m[33m)[m
+Merge: 5fcef7e 25c8f9f
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 16 18:00:48 2019 +0200
+
+    Merge pull request #181 from coreui/dev-router-5
+    
+    v2.5.0
+
+[33mcommit 25c8f9f84e54bd972a2a8e8efb11759375efc01e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 16 17:52:05 2019 +0200
+
+    Ship: v2.5.0
+
+[33mcommit 349393e60b13369f3b2512c3b4d7550b0be0eec1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 16 17:51:38 2019 +0200
+
+    refactor: update to react router v5
+    
+    ###### dependencies update
+    - update: `@coreui/react` to `~2.5.0`
+    - update: `react-router-config` to `^5.0.0`
+    - update: `react-router-dom` to `^5.0.0`
+    
+    __BREAKING CHANGES__
+    - drop 'Breadcrumb' in favour of `Breadcrumb2`
+    - drop 'SidebarNav' in favour of `SidebarNav2`
+    - __Breadcrumb2__: **mandatory** prop `router` see > [Breadcrumb](./src/Breadcrumb.md)
+    - __SidebarNav2__: **mandatory** prop `router`  see > [SidebarNav](./src/SidebarNav.md)
+    
+    React Router v5 uses the new React Context API, which is incompatible with version used in 4.3.
+    That's a breaking change. With raw upgrade to v5, you can encounter an error message: `You should not render a <Route> outside a <Router>` or `You should not use <Link> outside a <Router>` etc... It means that Route, Link etc, can't find the correct context object because `Breadcrumb` and `SidebarNav` components have their own context object.
+    
+    It's important to use the same instance of the `react-router-dom v5` library with template and coreui components. `@coreui/react` version `2.5.0` moves react-router-dom form dependencies to peerDependecies and takes the same library/module from the template/app instead. We have to pass router module object as a prop to `<AppSidebarNav>` and `<AppBreadcrumb>`
+    
+    #####_migration guide v2.1 -> v2.5_ :boom:
+    1. update `dependencies` in `package.json`
+       - [ ] `@coreui/react` to `~2.5.0`
+       - [ ] `react-router-dom` to `^5.0.0`
+       - [ ] `react-router-config` to `^5.0.0`
+    
+    2. modify `DefaultLayout.js`
+       - [ ] import react-router-dom module as an object
+         ```
+         import * as router from 'react-router-dom';
+         ```
+       - [ ] import new versions of components `AppBreadcrumb2` and `AppSidebarNav2` (alias is optional, just keep consistency with markup)
+         ```jsx
+         import {
+           ...
+           AppBreadcrumb2 as AppBreadcrumb,
+           AppSidebarNav2 as AppSidebarNav
+           ...
+         } from '@coreui/react';
+         ```
+       - [ ] inject `router` object as a prop to `<AppSidebarNav>` and `<AppBreadcrumb>`
+         ```html
+         <AppSidebarNav navConfig={navigation} {...this.props} router={router}/>
+         ```
+    
+         ```html
+         <AppBreadcrumb appRoutes={routes} router={router}/>
+         ```
+    
+    ---
+
+[33mcommit 5fcef7ed9e7010d5636206270e4527d417e91578[m[33m ([m[1;33mtag: v2.1.7[m[33m)[m
+Merge: e5d84e0 5f3380d
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 14 19:22:13 2019 +0200
+
+    Merge pull request #180 from coreui/dev-vnext
+    
+    v2.1.7
+
+[33mcommit 5f3380d8e849f570ec1304104b46d98b8cbd281f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 14 19:19:30 2019 +0200
+
+    Ship: v2.1.7
+
+[33mcommit 76bd4a796e83f148650fde8e11fedae639edcc99[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 14 19:18:16 2019 +0200
+
+    chore: dependencies update
+    
+    - update: `@coreui/react` to `~2.1.7`
+    - update: `@coreui/coreui-plugin-chartjs-custom-tooltips` to `^1.3.0`
+    - update: `enzyme-adapter-react-16` to `^1.13.0`
+    - update: `node-sass` to `^4.12.0`
+    - update: `react` to `^16.8.6`
+    - update: `react-app-polyfill` to `^1.0.1`
+    - update: `react-chartjs-2` to `^2.7.6`
+    - update: `react-dom` to `^16.8.6`
+    - update: `react-test-renderer` to `^16.8.6`
+    - update: `react-scripts` to `^3.0.1`
+
+[33mcommit 3490bba27b7db7ddd898e69fead726d9257bfc60[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 14 19:17:21 2019 +0200
+
+    fix(Popovers): add trigger=legacy
+
+[33mcommit d40ce7e338078234b704ac132886e688fb01ecf2[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 14 19:12:18 2019 +0200
+
+    chore: add package-lock.json with updated tar dependency
+    
+    - node-sass > node-gyp > `tar` security issue
+
+[33mcommit e5d84e0fc7ae84902e61dffee2d6e2bb9b378485[m[33m ([m[1;33mtag: v2.1.6[m[33m)[m
+Merge: 1ab1326 0576d18
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 15:45:31 2019 +0100
+
+    Merge branch 'reactbits-fix-circular-dependency'
+
+[33mcommit 0576d1852c29f008c6a0ee5662ae661ca2ea7352[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 15:44:57 2019 +0100
+
+    Ship: v2.1.6
+
+[33mcommit 921519f4171a8c992f2e2f65c2e6095da47671ee[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 15:37:21 2019 +0100
+
+    chore: dependencies update
+
+[33mcommit 24666f668196c609b70accabac1f94f04fec55ae[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 15:36:01 2019 +0100
+
+    refactor(Forms): move to InputGroupButtonDropdown where applicable
+
+[33mcommit 7ad00e6a335241ea554496b0d30bbe1b7646be58[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 15:32:11 2019 +0100
+
+    refactor(DefaultHeader): move to ReactRouter NavLink
+
+[33mcommit 988b2405666a5d8b523bf67b7abf3fea1ce20927[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 14:29:54 2019 +0100
+
+    fix(routes): add Home to routes - breadcrumb issue
+
+[33mcommit ded4437ae10cc03eb75c5eca89c266c3ce2dc3a5[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 14:27:54 2019 +0100
+
+    refactor(App): change to render in Route
+
+[33mcommit 68c2cce40d2cce6495052c8639d150b900195006[m
+Merge: 987c047 691d0cd
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Mar 25 13:39:38 2019 +0100
+
+    fix: remove redundant react-loadable
+
+[33mcommit 691d0cd9b5c986e7cb0cf3e586d13d1e4f029703[m
+Author: sergeyt <stodyshev@gmail.com>
+Date:   Sun Mar 24 18:41:07 2019 +0700
+
+    remove redundant react-loadable
+
+[33mcommit 987c0474278f9d2756a1c9c43e1d0d96f6a2d4be[m
+Author: sergeyt <stodyshev@gmail.com>
+Date:   Sun Mar 24 18:31:42 2019 +0700
+
+    fix circular dependency
+
+[33mcommit 1ab13261d76a8347190ed95a8f72d4d7319f338f[m
+Merge: 43a941e 3dc462c
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Mar 22 11:05:21 2019 +0100
+
+    Merge pull request #162 from aaabramov/patch-1
+    
+    Fix typo
+
+[33mcommit 3dc462c306a306acb1d6ba367d13943a5a4c9922[m
+Author: Andrii <aabrasha@gmail.com>
+Date:   Fri Mar 22 09:45:34 2019 +0200
+
+    Fix typo
+
+[33mcommit 43a941e550eb466f0a4cf93ff0fe8d6fcc2d94b0[m[33m ([m[1;33mtag: v2.1.5[m[33m)[m
+Merge: bcc28e1 fca29cf
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 6 16:44:18 2019 +0100
+
+    Merge pull request #155 from coreui/dev-vnext
+    
+    Ship: v2.1.5
+
+[33mcommit fca29cf0c0b1f731b1688747933ffffb64b9773e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 6 16:39:19 2019 +0100
+
+    Ship: v2.1.5
+    
+    - fix: iOS 9 Safari sidebar toggle force issue `@coreui/react@2.1.5`
+    
+    dependencies update:
+    - update: `@coreui/react` to `^2.1.5`
+    - update: `enzyme-adapter-react-16` to `^1.10.0`
+    - update: `flag-icon-css` to `^3.3.0`
+    - update: `react` to `^16.8.4`
+    - update: `react-dom` to `^16.8.4`
+    - update: `react-test-renderer` to `^16.8.4`
+
+[33mcommit bcc28e1d146b2277716e2c3160aeb5f4aeede1ce[m[33m ([m[1;33mtag: v2.1.4[m[33m)[m
+Merge: f74a369 1c65d9e
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Feb 21 18:08:24 2019 +0100
+
+    Merge pull request #152 from coreui/dev-vnext
+    
+    v2.1.4
+
+[33mcommit 1c65d9e76d10a5e05ddceb284ab0a1219517c1ad[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Feb 21 18:07:20 2019 +0100
+
+    Ship v2.1.4
+    
+    - maintenance release: fixes #151 #145
+    - dependencies update
+
+[33mcommit 4af6e9b25e6a623e30730043d90bdf8eab7cd19b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Feb 21 18:06:39 2019 +0100
+
+    refactor(DefaultHeader): Dashboard router link
+
+[33mcommit c86088837295102dcddd4a9faa75235bb93ac807[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Feb 21 18:05:27 2019 +0100
+
+    chore: dependencies update
+    
+    - update: `@coreui/coreui` to `^2.1.7`
+    - update: `@coreui/react` to `^2.1.4`
+    - update: `bootstrap` to `^4.3.1`
+    - update: `core-js` to `^2.6.5`
+    - update: `enzyme` to `^3.9.0`
+    - update: `enzyme-adapter-react-16` to `^1.9.1`
+    - update: `prop-types` to `^15.7.2`
+    - update: `react` to `^16.8.2`
+    - update: `react-app-polyfill` to `^0.2.1`
+    - update: `react-dom` to `^16.8.2`
+    - update: `react-test-renderer` to `^16.8.2`
+    - update: `reactstrap` to `^7.1.0`
+    - update: `react-scripts` to `2.1.5`
+
+[33mcommit f74a369adb23efbe220d50720effd909c8dfefea[m[33m ([m[1;33mtag: v2.1.3[m[33m)[m
+Merge: bc45324 d595e85
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Jan 8 16:14:39 2019 +0100
+
+    Merge pull request #144 from coreui/dev-vnext
+    
+    v2.1.3
+
+[33mcommit d595e851bc4fcdf81ad10b59feb6fef516a8fd6a[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Jan 8 16:13:17 2019 +0100
+
+    Ship: v2.1.3
+
+[33mcommit 98c79bcb6721bccae87daef90ccf8d4f368aa14c[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Jan 8 16:10:07 2019 +0100
+
+    chore: dependencies update
+    
+    - chore: update `@coreui/coreui` to `^2.1.5`
+    - chore: update `@coreui/react` to `^2.1.3`
+    - chore: update `bootstrap` to `^4.2.1`
+    - chore: update `core-js` to `^2.6.1`
+    - chore: update `enzyme` to `^3.8.0`
+    - chore: update `enzyme-adapter-react-16` to `^1.7.1`
+    - chore: update `node-sass` to `^4.11.0`
+    - chore: update `react` to `^16.7.0`
+    - chore: update `react-app-polyfill` to `^0.2.0`
+    - chore: update `react-chartjs-2` to `^2.7.4`
+    - chore: update `react-dom` to `^16.7.0`
+    - chore: update `react-test-renderer` to `^16.7.0`
+    - chore: update `reactstrap` to `^7.0.2`
+    - chore: update `react-scripts` to `2.1.3`
+
+[33mcommit 2a9a23dff55c841b5f97245ed8d0ad088a5278ce[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Jan 8 16:09:25 2019 +0100
+
+    fix(Collapse): add `mb-0` to accordion cards
+
+[33mcommit fa7d42966701032c984efbcb5695041deeab0bf2[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Jan 8 16:08:57 2019 +0100
+
+    fix(ButtonGroups): misplaced dropdownOpen
+
+[33mcommit bc4532486396dbd2532a4f102952a725487fab18[m
+Merge: 1cff070 310fa60
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 26 19:56:09 2018 +0100
+
+    Merge pull request #134 from coreui/dev-testing
+    
+    test: coverage
+
+[33mcommit 310fa608b1e5cd0f5d882664debf5bcca877f6e3[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 26 19:54:54 2018 +0100
+
+    test: add coverage
+
+[33mcommit 52a68868cd4c3ae372f125082640a32908bc4ef4[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 26 18:28:27 2018 +0100
+
+    refactor(Tabs): cleanup, test coverage
+
+[33mcommit 7632881468259e286c92f9dc614ba27bbd834e1e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Nov 23 18:37:44 2018 +0100
+
+    test: more coverage
+
+[33mcommit 1cff0707ff024ccc35f14b7f9cad59e70e4cb994[m[33m ([m[1;33mtag: v2.1.2[m[33m)[m
+Merge: 7489ecb 1fb2478
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 21 17:22:52 2018 +0100
+
+    Merge pull request #133 from coreui/dev-vnext
+    
+    v2.1.2
+
+[33mcommit 1fb2478161e9f63b56cda3870919ea8b897a9e75[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 21 17:21:29 2018 +0100
+
+    Ship: v2.1.2
+
+[33mcommit 5d9be44cc3e1eeac980592024c69aff32d2a29ec[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 21 17:12:40 2018 +0100
+
+    chore: update `@coreui/react` to `^2.1.1`
+
+[33mcommit eb18566331404546c49edba7e65c74ab87ea966d[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 21 17:12:08 2018 +0100
+
+    fix(scss): floating footer ie11 issue
+
+[33mcommit 7489ecb1645a5c6d5064bb43913f45f0d6b4ae0b[m[33m ([m[1;33mtag: v2.1.1[m[33m)[m
+Merge: c9f9bfd aeccb70
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:16:02 2018 +0100
+
+    Merge pull request #132 from coreui/dev-lazy-loading
+    
+    v2.1.1
+
+[33mcommit aeccb700b9caf4cbf9333557722fd83ce7422c32[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:13:40 2018 +0100
+
+    Ship: v2.1.1
+
+[33mcommit c3249976cb63ff7a252c3fac7695c2fc15271e94[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:08:14 2018 +0100
+
+    refactor(Dashboard): tweak lazy and Suspense for Widget03
+
+[33mcommit 05d0d7f1e877ab7e3288adef90c2c04cfb92ae3b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:06:49 2018 +0100
+
+    refactor(Login): add router link to Register button
+
+[33mcommit 39104998aa096400a2172d91368156de113a3fc8[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:06:20 2018 +0100
+
+    refactor(Register): add margins to social-media buttons
+
+[33mcommit 450fc30aa9d647f29937a39631add4a6b0497849[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 20 23:05:35 2018 +0100
+
+    chore: update `@coreui/coreui` to `^2.1.1`
+
+[33mcommit 77f87cff883547cd136c3f91543323a4527b0621[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 19 18:13:05 2018 +0100
+
+    refactor(DefaultHeader): add react-router Link to /users
+    
+    - refactor(Users): add react-router Link to `/users`
+
+[33mcommit f0bcbabab50e392864d001cd0336d46dee210d1b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 19 18:10:35 2018 +0100
+
+    refactor(DefaultLayout) code splitting with `React.lazy`
+    
+    - remove `react-loadable`
+    - `Suspense` with routes, Aside, Footer, Header
+    -  add `onLogout` for DefaultHeader
+
+[33mcommit 2e8c6c16e0403efd524e5e52110c1ec91d6c471b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 19 18:00:09 2018 +0100
+
+    refactor(App.js) code splitting with `react-loadable`
+
+[33mcommit df3b3e220a30cc9f5121bbb856fe04fe8fc73ee9[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 19 17:57:34 2018 +0100
+
+    chore: disable eslint warning for href="#" attribute
+
+[33mcommit 37be56a0341be7ded05cda60e260f129ac4086b7[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Nov 19 16:49:01 2018 +0100
+
+    chore: dependencies update
+    
+    - chore: update `enzyme-adapter-react-16` to `1.7.0`
+    - chore: update `react` to `16.6.3`
+    - chore: update `react-dom` to `16.6.3`
+    - chore: update `react-test-renderer` to `16.6.3`
+
+[33mcommit c9f9bfdff9ec094015e3d96db52533dff82f7a4a[m[33m ([m[1;33mtag: v2.1.0[m[33m)[m
+Merge: 3e8763a 4e5d693
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 7 18:12:28 2018 +0100
+
+    Merge pull request #128 from coreui/dev-vnext
+    
+    v2.1.0
+
+[33mcommit 4e5d6932cb41d2e84bd8075030f3960f0bbd5cfc[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 7 17:00:45 2018 +0100
+
+    ship: v2.1.0
+
+[33mcommit 7b358c438d913ccf6423c47faca87fc40e3a9b55[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 7 17:00:26 2018 +0100
+
+    feat(SidebarNav): navLink `attributes` - optional JS object with valid JS API naming
+    
+    - starting with `@coreui/coreui`, `@coreui/react` `v2.1.0` and up
+    - valid attributes: `rel`, `target`, `hidden`, `disabled`, etc...
+
+[33mcommit 6c3acb334a0aae88368910089059782796d89537[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 7 16:57:30 2018 +0100
+
+    fix(Cards): `card-header-actions` add to `CardHeader` for `rtl` support
+
+[33mcommit 6a477beb99bc1929e6441a8aa470d4cd745567a4[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Nov 7 16:56:14 2018 +0100
+
+    chore: dependencies update
+    
+    - chore: update `@coreui/coreui` to `2.1.0`
+    - chore: update `@coreui/react` to `2.1.0`
+    - chore: update `node-sass` to `4.10.0`
+    - chore: update `react` to `16.6.1`
+    - chore: update `react-dom` to `16.6.1`
+    - chore: update `react-test-renderer` to `16.6.1`
+
+[33mcommit 3e8763a3ac1e63b5ff46a5ff104a6e078e075e38[m[33m ([m[1;33mtag: v2.0.14[m[33m)[m
+Merge: 71cd428 4370de1
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Sat Nov 3 19:03:16 2018 +0100
+
+    Merge pull request #127 from coreui/dev-vnext
+    
+    v2.0.14
+
+[33mcommit 4370de158d79de85c191440d796d73fb9656cfd2[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Sat Nov 3 19:01:47 2018 +0100
+
+    ship: v2.0.14
+
+[33mcommit 2636edd2872873ecc83a81a2e52adbca322b62e4[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Sat Nov 3 19:01:22 2018 +0100
+
+    chore: dependencies update
+    
+    - chore: update `@coreui/coreui` to `2.0.25`
+    - chore: update `chart.js` to `2.7.3`
+    - chore: update `flag-icon-css` to `3.2.1`
+    - chore: update `node-sass` to `4.9.4`
+    - chore: update `react` to `16.6.0`
+    - chore: update `react-dom` to `16.6.0`
+    - chore: update `react-router-config` to `4.4.0-beta.6`
+    - chore: update `react-test-renderer` to `16.6.0`
+    - chore: update `react-scripts` to `2.1.1`
+
+[33mcommit 71cd4288578d421d9b22c55cc9c2876ee0642943[m[33m ([m[1;33mtag: v2.0.13[m[33m)[m
+Merge: 07c7d3d 1c86c3e
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:59:55 2018 +0200
+
+    Merge pull request #122 from coreui/dev-vnext
+    
+    v2.0.13
+
+[33mcommit 1c86c3e0288df88143e445756165b8cd2c331e7b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:57:31 2018 +0200
+
+    Ship: v2.0.13
+
+[33mcommit 0728cda1a49584669ac08ff26d35fc589fd1b1d6[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:57:11 2018 +0200
+
+    chore: remove unused `vendors/charts.js/` directory
+
+[33mcommit 5bc9ccc38773e92981667cacc2024d753852ca6f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:56:26 2018 +0200
+
+    refactor: import from `node_modules/` with `~` prefix
+
+[33mcommit abeea785f91cdbf154dc715f3e9e7240a5d27857[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:55:22 2018 +0200
+
+    refactor: move `App.js` import styles to `App.scss`
+
+[33mcommit e93dc62ab40306b27b163eab3e68e9d188c9be05[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:53:49 2018 +0200
+
+    chore: package.json cleanup
+    
+    - cleanup `package.json` scripts
+    - remove `babel-jest` dependency
+    - remove `node-sass-chokidar` dependency
+    - remove `npm-run-all` dependency
+
+[33mcommit d7f4f57e14d6f82f5441564ebc296a5716e09427[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 9 17:50:06 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 07c7d3d5658f57d47b03eb6652edd0908157a03b[m[33m ([m[1;33mtag: v2.0.12[m[33m)[m
+Merge: cc7b690 a05cfda
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Oct 5 18:11:16 2018 +0200
+
+    Merge pull request #120 from coreui/dev-vnext
+    
+    v2.0.12
+
+[33mcommit a05cfdaa32633279e6a71911d323f6fc2b2ec452[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Oct 5 17:27:08 2018 +0200
+
+    Ship: v2.0.12
+
+[33mcommit 1424b6c3f0e73cf7d2b01fed293cb0c3d1f93bb0[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Oct 5 17:26:37 2018 +0200
+
+    fix(DefaultAside): `ListGroup` with `tag="div"` works better with `rtl`
+
+[33mcommit 8e2132e5804e204f1854fd8df72226792e7dcd31[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Oct 5 17:26:05 2018 +0200
+
+    fix(DefaultLayout): `AppAside` remove deprecated `hidden` prop
+
+[33mcommit 51169d16d8195c40859e1235852166c7fb740af3[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Oct 5 17:25:31 2018 +0200
+
+    chore: dependencies update
+    
+    - chore: update `@coreui/react` to `^2.0.8`
+    - chore: update `reactsrtrap` to `^6.5.0`
+    - chore: update `react-scripts` to `^2.0.4`
+    - chore: `enzyme` to `3.7.0`
+    - chore: `enzyme-adapter-react-16` to `1.6.0`
+
+[33mcommit cc7b690dc8f98011217600378f1acaaab37e8839[m[33m ([m[1;33mtag: v2.0.11[m[33m)[m
+Merge: 50eff2a f400c0a
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 2 16:38:28 2018 +0200
+
+    Merge pull request #118 from coreui/dev-cra-2
+    
+    chore: move to Create React App 2.0
+
+[33mcommit f400c0a2c4cc44bf76d371967deb006a34b1fcee[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 2 16:31:00 2018 +0200
+
+    chore: move to Create React App 2.0
+
+[33mcommit 50eff2a6a769651a406d4967f7750878c9bdc1eb[m[33m ([m[1;33mtag: v2.0.10[m[33m)[m
+Merge: 7542458 e6a32ae
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Oct 1 20:13:47 2018 +0200
+
+    Merge pull request #117 from coreui/dev-vnext
+    
+    - chore: update `@coreui/coreui` to `^2.0.14`
+    - chore: update `@coreui/react` to `^2.0.6`
+    - chore: update `enzyme` to `^3.6.0`
+    - chore: update `enzyme-adapter-react-16` to `^1.5.0`
+    - chore: update `flag-icon-css` to `^3.2.0`
+    - chore: update `react` to `^16.5.2`
+    - chore: update `react-dom` to `^16.5.2`
+    - chore: update `react-router-config` to `^4.4.0-beta.1`
+    - chore: update `react-test-renderer` to `^16.5.2`
+    - chore: update `babel-jest` to `^23.6.0`
+
+[33mcommit e6a32aea1a0c7e5def76e92a4c172992578db141[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Oct 1 20:12:41 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 7542458c9d6a8a69695ed9e8b661bc69fcab0a5c[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Sep 7 12:14:33 2018 +0200
+
+    add gtag
+
+[33mcommit 612986a7815a705513bac096654ee0daf0e72974[m[33m ([m[1;33mtag: v2.0.9[m[33m)[m
+Merge: 2d5ffff fda5fbc
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Aug 31 17:48:58 2018 +0200
+
+    Merge pull request #110 from coreui/dev-vnext
+    
+    chore: dependencies update
+
+[33mcommit fda5fbcef094e9fadc27f100099737aef9b37cc6[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Aug 31 17:47:42 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 2d5ffff3d668e5f5e9262fd7e463e75e2973af38[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Aug 14 17:04:43 2018 +0200
+
+    docs(readme): CoreUI Vue link fix
+
+[33mcommit 902bf67b2a5b1d7ce3cb6d46976e12bff78c49a0[m
+Merge: 8af3ee6 3c1e65d
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Aug 7 17:00:07 2018 +0200
+
+    Merge pull request #103 from coreui/chore-dependencies
+    
+    chore: dependencies update
+
+[33mcommit 3c1e65de530ae9409888de976190553b8e587bec[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Aug 7 16:58:06 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 8af3ee64e2086ec478b16d6cb286a100ca912bd8[m[33m ([m[1;33mtag: v2.0.8[m[33m)[m
+Merge: 26be744 3b7c4c7
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:16:03 2018 +0200
+
+    Merge pull request #102 from coreui/dev-vnext
+    
+    v2.0.8
+
+[33mcommit 3b7c4c7d83c5c47a1a1c4433aea5174354a67805[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:14:37 2018 +0200
+
+    chore(ship): v2.0.8
+
+[33mcommit 989daa9857b7cfe0535f0fd0acd9ce9e7cda8a41[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:14:05 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit bad280163caa9e6e606c846ddddc1ef74df20a39[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:13:35 2018 +0200
+
+    chore(Switch): add missing Pro badges
+
+[33mcommit 9cc60d087e419b944f3bae272dc8783ed0845157[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:11:06 2018 +0200
+
+    fix(User): add missing unique key prop
+
+[33mcommit 0ab11ea1e115e02ccd2e664dbd1a002493d30519[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:10:51 2018 +0200
+
+    fix(Register): add missing form and autoComplete
+
+[33mcommit 9f9eb65a1ae305a54278882a8b82db7294edf4b8[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Jul 30 16:10:37 2018 +0200
+
+    fix(Login): add missing form and autoComplete
+
+[33mcommit 26be74402751df254f7e24aef391e968ae096a8b[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Jul 13 17:37:49 2018 +0200
+
+    update: coreui to 2.0.4
+
+[33mcommit f02aca2ecd74c90f86c2978fcbb4c5f9d00769d5[m[33m ([m[1;33mtag: v2.0.5[m[33m)[m
+Merge: e7ff49c 6bf0920
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Jun 21 20:13:22 2018 +0200
+
+    Merge pull request #95 from coreui/dev-users-example
+    
+    v2.0.5
+
+[33mcommit 6bf0920772b47f91a12846d526a794acd8168764[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Jun 21 20:11:36 2018 +0200
+
+    chore(ship) v2.0.5
+
+[33mcommit cea4da04184055ecc507c4117fd5cdaa29c9804f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Jun 21 20:10:40 2018 +0200
+
+    chore: add .env file
+
+[33mcommit c870094e9738de113d6214f6616db41c21a22950[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Jun 21 20:10:04 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 05c18d0cac8f90494e91ec7471535714f14fbc7f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Jun 21 20:09:30 2018 +0200
+
+    feat(router): Users/User Breadcrumb example with `/users/:id`
+
+[33mcommit e7ff49c127daebf639ee36d8df4c2a0874bc4e21[m[33m ([m[1;33mtag: v2.0.4[m[33m)[m
+Merge: 12b76ee 0a6aec7
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Jun 8 17:33:33 2018 +0200
+
+    Merge pull request #91 from coreui/dev-v2.0.4
+    
+    chore: dependencies update
+
+[33mcommit 0a6aec7196a7bdc249cb0ab8f1a1886b5f8a4b78[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Jun 8 17:32:04 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit 12b76eea0b1779a7b4e48a790c9ee255e656529a[m
+Merge: 2582877 9e9d218
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 18:38:55 2018 +0200
+
+    refactor: toggleFade
+
+[33mcommit 9e9d218fcbfe62c84e41b6e30de2cfabc22d2d12[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 18:37:40 2018 +0200
+
+    refactor(Cards): toggleFade
+
+[33mcommit 68b19fbe9468786bc2a2a29c2fa291108b2694ba[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 18:35:28 2018 +0200
+
+    refactor(Forms): toggleFade
+
+[33mcommit 2582877699ac5ed49c66dcda266c5518f9f461dd[m
+Merge: ae534b9 eeaccc4
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 18:21:02 2018 +0200
+
+    feat(Forms): FormFeedback valid
+
+[33mcommit eeaccc4c518a30747fd15769f79c0a91a57ec5c5[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 18:17:44 2018 +0200
+
+    feat(Forms): FormFeedback valid
+
+[33mcommit ae534b903dc98394232062704342aee36006004a[m[33m ([m[1;33mtag: v2.0.3[m[33m)[m
+Merge: 429f837 73f5f14
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:59:27 2018 +0200
+
+    Merge pull request #84 from coreui/dev-v2.0.3
+    
+    v2.0.3
+
+[33mcommit 73f5f14ca7ad30fe0a6d90124f930c7d5f6fefee[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:57:38 2018 +0200
+
+    chore: v2.0.3 changelog update
+
+[33mcommit 9d6dddcc5fe3b0521f28bc9a7c8056bdb826e00c[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:46:18 2018 +0200
+
+    chore(release): v2.0.3
+
+[33mcommit 4c2de2f5d9dcea629c0130cd5348f4239653b010[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:45:33 2018 +0200
+
+    chore: babel-jest update to v22.4.4
+
+[33mcommit 96d21c95e3d83a0b2041b02fff69fb7c60825aed[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:43:43 2018 +0200
+
+    refactor: CoreUI Icons v0.2.0
+
+[33mcommit 6c9ead5e7765b64614595f373957ae35b0bd0fb5[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:41:44 2018 +0200
+
+    fix(routes): mismatched SimpleLineIcons dynamic  import
+
+[33mcommit 227552f1d1b1f173d911fffec828524fb582f5ef[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 23 12:40:12 2018 +0200
+
+    refactor: disable ServiceWorker by default
+
+[33mcommit 429f83736ee9bd32f9d238fc3455fc200c3d93e4[m[33m ([m[1;33mtag: v2.0.2[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 16 22:33:31 2018 +0200
+
+    chore(release): dependencies update
+
+[33mcommit 646b3c1ef5ede3b9a922627a7d0aeecc6588c7e1[m[33m ([m[1;33mtag: v2.0.1[m[33m)[m
+Merge: 689778f efc28fb
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri May 11 17:24:52 2018 +0200
+
+    Merge pull request #79 from coreui/fix-component-names
+    
+    ship: v2.0.1
+
+[33mcommit efc28fb1f8ccc6490a99fb2341e99250737263e1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri May 11 17:22:18 2018 +0200
+
+    ship: v2.0.1
+
+[33mcommit 86cba46575df03c6b6a146331462265798834757[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri May 11 17:21:58 2018 +0200
+
+    chore: update node-sass-chokidar to v1.3.0
+
+[33mcommit 2efca30472fc0fa699fcabfedfe955e276bb7966[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri May 11 17:15:39 2018 +0200
+
+    fix: update component names in package.json
+
+[33mcommit 689778f78833c2245cbe31b4c7ddcd359f5c8c99[m
+Merge: 7756e1e 49e86ad
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 10 13:20:30 2018 +0200
+
+    Merge pull request #77 from coreui/dev-code-splitting
+    
+    refactor: code splitting via dynamic import
+
+[33mcommit 49e86ad555077b89616c8f92c80fcd164c4aedc0[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 10 13:16:10 2018 +0200
+
+    chore: switches view rearrange
+
+[33mcommit d1d388781c81754678e259a157cd78ad775b34ec[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu May 10 13:11:40 2018 +0200
+
+    refactor: code splitting via dynamic import
+
+[33mcommit 7756e1ed3b9ed1ada549da4aafcb9a37c82135f1[m[33m ([m[1;33mtag: 2.0.0-rc.1[m[33m)[m
+Merge: 0a030ec 97f6ab6
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 9 17:31:22 2018 +0200
+
+    Merge pull request #76 from coreui/dev-v2-coreui-icons
+    
+    feat: new CoreUI Icons set
+
+[33mcommit 97f6ab6014e664783e30355cf09d5a5b4c0380e1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 9 17:27:59 2018 +0200
+
+    feat: new CoreUI Icons set
+
+[33mcommit 0a030ec32252277e7e01f1f84e4a8901a477af0e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 19:21:17 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit a37c83266d71d3451d46ed0d1a2e0255fe1ebe32[m[33m ([m[1;33mtag: v2.0.0-rc.0[m[33m)[m
+Merge: 3869f17 697e49b
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 18:42:10 2018 +0200
+
+    Merge pull request #75 from coreui/dev-v2-rc-0
+    
+    v2.0.0-rc.0
+
+[33mcommit 697e49b54e62ba72e07760d2959b9b2051004a86[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 18:33:33 2018 +0200
+
+    chore: update @coreui/react dependency
+
+[33mcommit 22774fdb15898c19a8ba3214492b859799280881[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:48:12 2018 +0200
+
+    refactor(switches): cleanup
+
+[33mcommit f75010f0b40cd6b1380f24260ea5cd3b5b14ef58[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:43:19 2018 +0200
+
+    chore: dependencies update, version bump
+
+[33mcommit 245263a1add5e47f172ef322f8904ea6866fd63b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:22:46 2018 +0200
+
+    fix(styles): ie temp fix align-items-center
+
+[33mcommit 0c88adc9c827451c262853ab528ce2e558b7586a[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:21:49 2018 +0200
+
+    refactor(widgets): add missing line charts to Widget03
+
+[33mcommit 59d43f7ef2518ca2417f2b872d44b480fca2ff63[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:20:41 2018 +0200
+
+    refactor(modals view): button margins
+
+[33mcommit 5eb8a4abe5a70bc72a1c7c8e3803875964b6b48d[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 8 16:19:40 2018 +0200
+
+    refactor: buttons view
+
+[33mcommit 3869f17741981a1129c1346cc8491606e2ce31a5[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 2 17:30:15 2018 +0200
+
+    fix: ie pages align-items-center issue temp fix
+
+[33mcommit ff1194aeecd50f869e2bd922dcdfe48fe7f5ba69[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed May 2 17:28:59 2018 +0200
+
+    chore: update `reactstrap` to `v6.0.1`
+
+[33mcommit 74ac14276446fe41bb12df12a73ea68b82dc25d7[m
+Merge: f2fd4a4 45ead1e
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 20:04:20 2018 +0200
+
+    Merge pull request #73 from coreui/dev-2.0.0-beta.3
+    
+    v2.0.0-beta.3
+
+[33mcommit 45ead1eab20dd70d1603196711dde8b9e9cc9992[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 19:59:12 2018 +0200
+
+    chore: cleanup
+
+[33mcommit 15fc553c2bf34170173e8c162d8ca81dd21451cd[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 19:58:54 2018 +0200
+
+    refactor: import logo and sygnet
+
+[33mcommit eee1f0a47ed2209adc7e2d7377399d7057ac5462[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 17:43:57 2018 +0200
+
+    chore: update Bootstrap to `4.1.1`
+
+[33mcommit 20770f5e02240e771c003d97f974f59a61fef4ed[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 17:42:20 2018 +0200
+
+    refactor: polyfills for IE11 based on `core-js`
+
+[33mcommit 1010c5b09fb946edba4f8917dae13c1b3d4da47f[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 17:40:26 2018 +0200
+
+    refactor: add some `autocomplete` attributes to forms input
+
+[33mcommit cc70b1c351d288e0574cc8e100146dad2dd0bd44[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue May 1 17:38:56 2018 +0200
+
+    refactor: rename Full container to DefaultLayout
+
+[33mcommit ae6ebc7e4d8760bc8d3c86588118b120a43b4c88[m
+Merge: 6fe77db f2fd4a4
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Apr 30 19:44:55 2018 +0200
+
+    Merge branch 'master' into dev-2.0.0-beta.3
+
+[33mcommit 6fe77dbbf285f13fee3ba932494abe97195ed0c1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Apr 30 19:41:44 2018 +0200
+
+    chore: dependencies update
+
+[33mcommit f2fd4a443997f53a218ba039057fad141fd3aa86[m
+Merge: b7cb78f 5b4bc46
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Apr 29 11:14:48 2018 +0200
+
+    Merge branch 'master' of https://github.com/coreui/coreui-free-react-admin-template
+
+[33mcommit b7cb78f21f3ee9351a9de4638ff6d20364f2d243[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Apr 29 11:14:41 2018 +0200
+
+    fix: ie card charts issue
+
+[33mcommit c9762919d9509c8aa84dff037526da6bad18a747[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 27 20:55:55 2018 +0200
+
+    refactor: IE polyfills and import utilities from @coreui/coreui
+
+[33mcommit 5b4bc4621d82598db7dc2fcb892b695c7d03b579[m
+Merge: ffbfda3 3218b64
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 16:25:38 2018 +0200
+
+    Merge pull request #71 from coreui/temp-fix-dropup
+    
+    chore: fix css build scripts
+
+[33mcommit 3218b647c3d1bbbae5664fcf188ab187ca4f889d[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 16:24:13 2018 +0200
+
+    chore: fix css build scripts
+
+[33mcommit ffbfda314fad952f21307fa5889381654b6a7642[m
+Merge: ea2944f 4518f54
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 14:55:30 2018 +0200
+
+    Merge pull request #70 from coreui/temp-fix-dropup
+    
+    fix: temp hotfix ButtonDropdown up
+
+[33mcommit 4518f54db93b28c4ccf891cf157b13b506a7f1bd[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 14:54:41 2018 +0200
+
+    fix: temp hotfix ButtonDropdown up
+
+[33mcommit ea2944ff925f7fec241e3a4c477fd665a602323d[m[33m ([m[1;33mtag: v2.0.0-beta.2[m[33m)[m
+Merge: a44b204 0e28db8
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 12:58:03 2018 +0200
+
+    Merge pull request #69 from coreui/dev-v2-tooltips
+    
+    feat: chart.js custom tooltips plugin
+
+[33mcommit 0e28db82e0f87285e010ff23b014cff2ab4cc8fd[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 24 12:55:21 2018 +0200
+
+    feat: chart.js custom tooltips plugin
+
+[33mcommit 1282b02ffc999588c44fcbbb3098ed52676cd27a[m
+Merge: db92bfb a44b204
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 20 16:18:27 2018 +0200
+
+    Merge branch 'master' into dev-v2-tooltips
+
+[33mcommit db92bfb5943ab0249b5fc30c58e505ea3a97bf01[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 20 16:15:53 2018 +0200
+
+    feat(charts): CustomTooltips
+
+[33mcommit a44b2043264c410681ff6681d105a9dab21b1500[m
+Merge: 5d59116 c12a0fc
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Apr 20 11:56:46 2018 +0200
+
+    Merge branch 'master' of https://github.com/mrholek/CoreUI-React
+
+[33mcommit 5d59116f1d98e5c3bf50ddd7099e7543aa514fa6[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Apr 20 11:55:46 2018 +0200
+
+    refactor: update logo &sygnet
+
+[33mcommit c12a0fc174bd3b74f1771f0dbbdd0da43cbc228b[m[33m ([m[1;33mtag: v2.0.0-beta.1[m[33m)[m
+Merge: 3f7db41 7faaa9f
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 19 18:50:59 2018 +0200
+
+    Merge pull request #66 from coreui/dev-v2
+    
+    v2.0.0-beta.1
+
+[33mcommit 7faaa9fb93e8456f91925a63469eed9bdf6e7f14[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 19 18:49:10 2018 +0200
+
+    chore: ship v2.0.0-beta.1
+
+[33mcommit a7aabf07b91ec223775e93554b885f1f5bb897f4[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 19 18:48:39 2018 +0200
+
+    refactor(Switches): cleanup imports Input, Label
+
+[33mcommit c1bd2169aab82b8e6833651af9e0699a8703b3e6[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 19 18:42:09 2018 +0200
+
+    refactor(Switches): move to AppSwitch component
+
+[33mcommit fbad174a3c7f3f31f914162b67cb31aca417eb04[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 19 18:40:46 2018 +0200
+
+    refactor: fixed typo
+
+[33mcommit 3f7db418a54a09679fe18d75ef8f18de1841ec02[m
+Merge: 469b5c0 5a63629
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 17 14:51:31 2018 +0200
+
+    Merge pull request #63 from coreui/dev-v2
+    
+    chore: cleanup
+
+[33mcommit 5a636291616fe32793a42bc89f3d937cd5a46b89[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Apr 17 14:39:44 2018 +0200
+
+    chore: cleanup
+
+[33mcommit 469b5c0864507d762ec465187113afe0be06b62e[m
+Merge: c4f4012 3ec289c
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Apr 16 20:03:34 2018 +0200
+
+    Merge branch 'dev-v2'
+
+[33mcommit 3ec289c73d5e2e64a6d8b538ccbba79e14101a44[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Apr 16 20:03:09 2018 +0200
+
+    chore: dependencies
+
+[33mcommit c4f40121c8689f043238e2b93e440a372be2271b[m
+Merge: cb73aa6 e587d44
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Apr 16 16:00:41 2018 +0200
+
+    Merge pull request #62 from coreui/v2.0.0
+    
+    V2.0.0
+
+[33mcommit e587d443bfba347c420d75a5722287da8487be65[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Apr 16 13:24:45 2018 +0200
+
+    docs: add CONTRINUTONG.md and ISSUE_TEMPLATE.md
+
+[33mcommit 9943227e0c36a8839620e8da55dde55355f24f94[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Apr 16 13:23:47 2018 +0200
+
+    docs: update readme
+
+[33mcommit 3ed7037fcbbb6675a14bfa89dfda7cd3775eb71d[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Apr 16 13:09:27 2018 +0200
+
+    chore: add editor config
+
+[33mcommit e1a2be4cbb49d223b09d98f93a2f4d46c63d10d6[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Apr 16 13:09:05 2018 +0200
+
+    docs: update name and urls
+
+[33mcommit cb73aa6655b0002ab0f4e11dbf8065eefea823be[m
+Merge: 90e9a61 50061ab
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 13 21:03:52 2018 +0200
+
+    Merge pull request #61 from mrholek/v2.0.0
+    
+    v2.0.0
+
+[33mcommit 50061ab81438b165d2b6a5c9d1bdc5f1139a21e9[m
+Merge: 4af282e 90e9a61
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 13 21:03:00 2018 +0200
+
+    Merge branch 'master' into v2.0.0
+
+[33mcommit 4af282ea8b82ad30265a771175045e8a22c4989b[m[33m ([m[1;33mtag: v2.0.0-beta[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Apr 13 20:45:12 2018 +0200
+
+    chore: v2.0.0-beta
+    
+    - update to `@coreui/react: ^2.0.0-beta`
+    - version bump
+
+[33mcommit 1892c401aa1e96fa219f97545854f601f0354232[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Apr 12 22:01:31 2018 +0200
+
+    refactor: v2.0.0-alpha.3
+    
+    - refactor(Colors): view layout, minor temp tweaks
+    - refactor(FullAside): - ListGroup (deprecate callout)
+    - refactor(Full*): containers minor fixes
+    - refactor(Dropdowns): minor fixes
+    - refactor(Forms): `card-header-actions`
+    - feat(Forms): `<Input type="date">`
+    - feat(Forms): `FormFeedback`
+    - feat(Collapses): Accordion, Custom Accordion
+    - feat(ListGroup): with TabPanes
+    - refactor(PaginationItem): `tag="button"`
+    - refactor(BrandButtons): spacing
+    - refactor:(Buttons): view layout
+
+[33mcommit 71b1911de7401cffa9c0155192a5bd85f8b2f526[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Apr 11 18:36:19 2018 +0200
+
+    refactor: minor fixes
+
+[33mcommit b1ba7d8cd44e0f97a323fb0abceff07c2e31bb75[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Apr 11 18:34:16 2018 +0200
+
+    refactor(FullAside): ListGroup (deprecate callout)
+
+[33mcommit f7cd0549f48163bf75769edf815fe79db2dea4f0[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Apr 11 18:32:16 2018 +0200
+
+    refactor: styles from @coreui/coreui
+
+[33mcommit eeb7a5664104b516d7c52acf1989c74630a5796e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Apr 11 18:31:25 2018 +0200
+
+    refactor: Colors
+
+[33mcommit c46cb8400e5612b38c9a63c9927150f1531ecb59[m[33m ([m[1;33mtag: 2.0.0-alpha.2[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Apr 9 13:30:56 2018 +0200
+
+    v2.0.0-alpha.2
+    
+    - refactor: FullHeader `<AppHeaderDropdown direction="down">` (required prop `direction`)
+    - refactor: ButtonDropdowns `<Dropdown direction="up">` (deprecate 'dropup')
+    - refactor: Dashboard legend badge pill
+    - refactor: SocialButtons to BrandButtons `btn-brand`
+    - refactor: Buttons spacing `mr-1`
+    - update: reactstrap to `5.0.0`
+    - update: react, react-dom to `16.3.1`
+    - update: node-sass-chokidar to `1.1.0`
+    - update: prop-types to `15.5.8`
+    - update: react-scripts to `1.1.4`
+
+[33mcommit e1b0c8d30632922ea80505a9d769dee7da540c58[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Mar 16 15:40:11 2018 +0100
+
+    fix: revert dependency to @coreui/react: next
+
+[33mcommit a287b306beac2d02e3c991a30a0500e0c78937ef[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Mar 16 15:31:04 2018 +0100
+
+    fix: temporary add dependency to git @coreui/react
+
+[33mcommit 90e9a613a8b0ba5aab3cad16af398682870ab0a2[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Mar 16 11:31:21 2018 +0100
+
+    Update README.md
+
+[33mcommit 09a02cc657b0d73a63986c13e69f8fc70f866ec3[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 14 18:31:50 2018 +0100
+
+    fix: Dashboard charts swap
+
+[33mcommit 9fda46390c453eca91ce5042cb4c21fd508c7dd1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 14 16:13:05 2018 +0100
+
+    fix: add className='card-header-action'
+
+[33mcommit d66b150158b5e009a65de7aad8f758cfe5b26002[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 14 14:35:20 2018 +0100
+
+    test: add simple smoke test
+
+[33mcommit 77f80969785a65d2f0c33a7e809efb0812555a2a[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Mar 14 14:29:17 2018 +0100
+
+    refactor: Dashboard.js, README.md
+
+[33mcommit de8d1a85a27614043b9f32b0567c4851090a953e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Mar 13 18:08:50 2018 +0100
+
+    CoreUI-React add README.md
+
+[33mcommit 28669bed4629d50632b46feaca7fcd4c10fe9a68[m[33m ([m[1;33mtag: v2.0.0-alpha.1[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Mar 13 17:36:17 2018 +0100
+
+    CoreUI-React initial commit v2.0.0-alpha.1
+
+[33mcommit 154bd26f7e72216a509c7bf4fa78841c3699d8fa[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Mar 9 11:34:53 2018 +0100
+
+    Update README.md
+
+[33mcommit d1c1987014e47faad4e5f202822bacadcdca6b5a[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Mar 5 15:34:43 2018 +0100
+
+    refactor: new project structure
+
+[33mcommit 101ccc39706ab13b45251966599470076478dffb[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Mar 4 11:39:06 2018 +0100
+
+    chore: rename folders
+
+[33mcommit 464b5fc9f756c1c209bea0f0ecd5b01c7e1f4df2[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Mar 4 11:38:35 2018 +0100
+
+    chore: rename folders
+
+[33mcommit 48541f00a393f8360cac666bb15f8be77e357282[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Mar 4 11:34:51 2018 +0100
+
+    add assets
+
+[33mcommit 25cb3070b495db3d0f0052077087e553192b0c20[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Mar 4 11:32:31 2018 +0100
+
+    clean-up
+
+[33mcommit df584f4644d5773bdc2285000b578e9c39377472[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Mar 4 11:30:10 2018 +0100
+
+    Initial release
+
+[33mcommit 6f7ccbfa970892e7c89579a609220c31f2feee71[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Feb 2 19:09:27 2018 +0100
+
+    v1.0.10
+
+[33mcommit a8ddd22ea29ee2fcde8aefcb272dc82078173949[m[33m ([m[1;33mtag: v1.0.10[m[33m)[m
+Merge: be9e2ab db35210
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Feb 2 17:15:25 2018 +0100
+
+    Merge pull request #51 from mrholek/v1.0.10
+    
+    v1.0.10
+
+[33mcommit db35210ebb34f5fb89245a9a1c7fd59168e4b83e[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Feb 2 17:09:03 2018 +0100
+
+    v1.0.10
+
+[33mcommit be9e2abe03e03fa98ac6058f97700ed4477f233b[m[33m ([m[1;33mtag: v1.0.9[m[33m)[m
+Merge: e009616 cef091d
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Jan 19 23:40:11 2018 +0100
+
+    Merge pull request #45 from mrholek/v1.0.9
+    
+    v1.0.9 with Bootstrap 4.0.0
+
+[33mcommit cef091d6176a858da1445890cba8d0dc3c3eac95[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Fri Jan 19 23:25:39 2018 +0100
+
+    v1.0.9 with Bootstrap 4.0.0
+
+[33mcommit e0096169d84c3730118ac4b1961d4b1a1f200e7e[m[33m ([m[1;33mtag: v1.0.8[m[33m)[m
+Merge: 97282bb f9e8e14
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jan 17 17:28:52 2018 +0100
+
+    Merge pull request #44 from mrholek/v1.0.8
+    
+    v1.0.8
+
+[33mcommit f9e8e14754d8a7317fe1e52c7eb00a8a15e2e126[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jan 17 17:25:55 2018 +0100
+
+    v1.0.8
+
+[33mcommit 97282bb8f00586b88e794bb07330ed9cb286db35[m
+Merge: 9e3b039 5cabefb
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jan 17 12:01:34 2018 +0100
+
+    Merge pull request #24 from viniciusCamargo/patch-2
+    
+    change style of the cursor on nav link
+
+[33mcommit 9e3b0394e2d5f405cad47fb755b2bafea0fac124[m[33m ([m[1;33mtag: v1.0.6[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Nov 21 13:05:10 2017 +0100
+
+    Update to 1.0.6
+    
+    - update: react to 16.1.1
+    - update: reactstrap to 5.0.0-alpha.4
+    - refactor: deprecated reactstrap NavDropdown change to Dropdown with nav prop
+    - refactor: use prop bsSize instead of size to bootstrap's input sizing
+    - update: dependencies
+
+[33mcommit 5cabefb181afffb3597411586c37184d96edda45[m
+Author: Vinicius Camargo <viniciusCamargo@users.noreply.github.com>
+Date:   Fri Nov 17 03:49:49 2017 -0200
+
+    Update _nav.scss
+
+[33mcommit e8b83efddfdf7295cce7f0e1df20da8a50d48ad9[m[33m ([m[1;33mtag: v1.0.5[m[33m)[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Nov 13 11:38:18 2017 +0100
+
+    Update to 1.0.5
+
+[33mcommit 2de530f48e86df5a158d774c6bf9a67c85f9da01[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Nov 12 22:23:41 2017 +0100
+
+    Update README.md
+
+[33mcommit c8691838caec3d68781f3cbe32f4d128cc7845df[m
+Author: Vinicius Camargo <viniciusCamargo@users.noreply.github.com>
+Date:   Mon Nov 6 18:23:37 2017 -0200
+
+     change style of the cursor on nav link
+    
+    The current behavior is to display the `text` cursor when on hover, even though `nav-link` is an anchor.
+    
+    It does not display the `pointer` cursor because `nav-link` is missing the `href` attribute.
+
+[33mcommit 338d579c021ec289da44d004bde4910bd5ec4d42[m[33m ([m[1;33mtag: v1.0.4[m[33m)[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Tue Oct 24 22:26:48 2017 +0200
+
+    update to 1.0.4
+
+[33mcommit 8b49e36656d7caf8a2f5c5537df2875ba7eacfee[m[33m ([m[1;33mtag: v1.0.3[m[33m)[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sun Oct 22 19:18:46 2017 +0200
+
+    - update: Bootstrap version to v4.0.0-beta.2
+    - refactor: Remove old SCSS variables
+    - refactor: Breadcrumb Menu styles
+    - fix: External links issue
+    - fix: Mobile sidebar-nav height issue
+
+[33mcommit 1d5a143fd364eaeb611856634378f67f421f64a1[m[33m ([m[1;33mtag: v1.0.2[m[33m)[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Oct 16 16:04:35 2017 +0200
+
+    - `HeaderDropdown` component example extracted out of `Header`
+    - Fix height and position problems with .fixed-footer
+    - Fix mobile sidebar height
+    - Fix mobile breadcrumb position with .fixed-breadcrumb
+    - Add new navbar toggler icon
+    - Update old bootstrap classes ex. `hidden-sm-down`
+    - Add gulp-autoprefixer
+
+[33mcommit 5766d289386b58011f1238c0142498849932a953[m
+Merge: 6571acf 5fef51f
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 10 15:44:46 2017 +0200
+
+    Merge pull request #20 from mrholek/react-v16
+    
+    React v16, Reactstrap v5
+
+[33mcommit 5fef51f5136099a04c834e2c7e6103c30de590c9[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Oct 10 15:23:56 2017 +0200
+
+    React v16, Reactstrap v5
+
+[33mcommit 6571acf95e829b1c439910835b2076017b89256a[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Thu Sep 28 12:42:36 2017 +0200
+
+    v1.0.0
+
+[33mcommit 950c51cbf49e58be9da019377a8b45331470cd63[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Sep 22 11:08:07 2017 +0200
+
+    v1.0.0
+
+[33mcommit c5cc33953127e94a7f2185676f392e723c6932b2[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Fri Sep 22 11:06:18 2017 +0200
+
+    v1.0.0
+
+[33mcommit 7ca12d77791bc6b95cf6e6c70ad38b0dd5c785ee[m
+Merge: 5178845 5ec6ba7
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Aug 31 12:16:04 2017 +0200
+
+    Merge pull request #7 from xidedix/master
+    
+    minor tweaks
+
+[33mcommit 5ec6ba70c724a9d270b78d77213f3cc011ef18f1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Aug 31 12:13:25 2017 +0200
+
+    minor tweaks
+
+[33mcommit 517884524fc25ca65dc1a036829037a7dc326b64[m
+Merge: 1560e0b a10a3aa
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Aug 30 13:04:08 2017 +0200
+
+    Merge pull request #6 from xidedix/master
+    
+    Readme fix
+
+[33mcommit a10a3aab42d9342b0f0d8ceec1393675a3f479ce[m
+Merge: 1560e0b 9b027ef
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Aug 30 13:00:14 2017 +0200
+
+    Merge branch 'hotfix/readme-demo-link'
+
+[33mcommit 9b027ef5c81bd9841221c1307e841784cf5ff99b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Aug 30 12:59:51 2017 +0200
+
+    Readme fix closes #5
+
+[33mcommit 1560e0b94948742ab546b09d098d4f2d4aa8d3b6[m
+Merge: b7ffd29 68692ad
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Aug 24 17:22:20 2017 +0200
+
+    Merge pull request #4 from xidedix/master-dist
+    
+    minor fixes
+
+[33mcommit 68692ad3825a6c1f1f0f74caf172e31659d515cd[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Aug 24 16:34:34 2017 +0200
+
+    webpack.config env.prod added & build scripts modified
+
+[33mcommit 2aa3baa6ee645c99de97a0c86879bafeeb0389a7[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Aug 24 16:31:15 2017 +0200
+
+    minor fixes chart-wrapper & dropdown-menu-right & components
+
+[33mcommit b7ffd29c8e1a7690c00a9c355300d93955526000[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Mon Aug 21 14:14:54 2017 +0200
+
+    update readme
+
+[33mcommit 0026398297f6f02f124207bf1848d8ae5057d8d0[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Sat Aug 19 18:02:20 2017 +0200
+
+    update package.json
+
+[33mcommit 50cf20a41cfe371fab342c897ddcb517ada18650[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Wed Aug 16 12:51:26 2017 +0200
+
+    update README.md
+
+[33mcommit fdf71c10161a404d3327b7d23c08bae4fdd87677[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Wed Aug 16 12:08:15 2017 +0200
+
+    update README.md
+
+[33mcommit c3354fa29b18b252eb3456f726a4ffb3898b33af[m
+Author: Łukasz Holeczek <lukasz@holeczek.pl>
+Date:   Wed Aug 16 12:06:44 2017 +0200
+
+    Hello World!
