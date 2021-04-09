@@ -30,13 +30,12 @@ export default () =>{
     const [showModal,setShowModal] = useState(false);
     const [ modalLoading,setModalLoading] = useState(false);
     const [modalTitleField,setModalTitleField] =  useState('');
-    const [modalBodyField,setModalBodyField] =  useState('');
+    const [modalFileField,setModalFileField] =  useState('');
     const [ modalId, setModalId] = useState('');
 
 
     const fields = [
         {label:'Titulo', key:'title' },
-        {label:'Data de Criação', key:'datecreated',_style:{width:'250px'}},
         {label:'Ações',key:'actions',_style:{width:'1px'}},
     ]
 
@@ -52,7 +51,7 @@ export default () =>{
     const getList = async () =>{
         setLoading(true);
 
-        const result = await api.getWall(); //processo de requisição
+        const result = await api.getDocuments(); //processo de requisição
         
         setLoading(false);
 
@@ -71,7 +70,7 @@ export default () =>{
     const handleEditButton = (index) =>{
         setModalId(list[index]['id']);
         setModalTitleField(list[index]['title']);
-        setModalBodyField(list[index]['body']);
+       // setModalBodyField(list[index]['body']);
         setShowModal(true);
 
     }
@@ -90,22 +89,29 @@ export default () =>{
     const handleNewButton = () =>{
         setModalId('');
         setModalTitleField('');
-        setModalBodyField('');
+        setModalFileField('');
         setShowModal(true);
     }
 
     const handleModalSave =  async () => {
-        if(modalBodyField && modalTitleField){
+        if(modalTitleField){
             setModalLoading(true);
             let result;
             let data = {
                 title:modalTitleField,
-                body:modalTitleField
             };
             if(modalId === ''){
-                result = await api.addWall(data);
+                if(modalFileField) {
+                    data.file = modalFileField;
+                   result = await api.addDocument(data); 
+                } else{
+                    alert("Seleciona o arquivo");
+                    setModalLoading(false);
+                    return;
+                }
+                
             } else{
-                result = await api.updateWall(modalId,data);
+                result = await api.updateDocument(modalId,data);
             }
             setModalLoading(false);
             if(result.error === ''){
@@ -119,12 +125,17 @@ export default () =>{
         }
     }
 
+
+    const handleDownloadButton = (index) =>{
+        window.open(list[index]['fileurl']);
+    }
+
     return (
         <>
             <CRow>
                 <CCol>
 
-                    <h2>Mural de Avisos</h2>
+                    <h2>Documentos</h2>
 
                     <CCard>
                         <CCardHeader>
@@ -132,7 +143,7 @@ export default () =>{
                                 <CIcon 
                                 name="cil-check" />
                                 
-                                Novo Aviso
+                                Novo Documento
                             </CButton>
                         </CCardHeader>
                         <CCardBody>
@@ -151,6 +162,9 @@ export default () =>{
                                     'actions':(item,index) =>(
                                         <td>
                                             <CButtonGroup>
+                                                <CButton color="success" onClick={()=>handleDownloadButton(index)}>
+                                                    <CIcon name="cil-cloud-download"/>
+                                                </CButton>
                                                 <CButton color="info" onClick={()=>handleEditButton(index)}>Editar</CButton>
                                                 <CButton color="danger" onClick={()=>handleRemoveButton(index)}>Excluir</CButton>
                                             </CButtonGroup>
@@ -168,17 +182,17 @@ export default () =>{
             <CModal show={showModal} onClose={handleCloseModal}>
 
                 <CModalHeader closeButton>
-                    {modalId==='' ? 'Novo': 'Editar'} Aviso
+                    {modalId==='' ? 'Novo': 'Editar'} Documento
                 </CModalHeader>
 
                 <CModalBody>
 
                     <CFormGroup>
-                        <CLabel htmlFor="modal-title">Título do aviso</CLabel>
+                        <CLabel htmlFor="modal-title">Título do Documento</CLabel>
                         <CInput
                             type="text"
                             id="modal-title"
-                            placeholder="Digite um título para o aviso"
+                            placeholder="Digite um título para o Documento"
                             value={modalTitleField}
                             onChange={e=>setModalTitleField(e.target.value)}
                             disabled={modalLoading}
@@ -186,13 +200,13 @@ export default () =>{
                     </CFormGroup>  
 
                     <CFormGroup>
-                        <CLabel htmlFor="modal-body">Corpo do aviso</CLabel>
-                        <CTextarea
-                            id="modal-body"
-                            placeholder="Digite o conteúdo do aviso"
-                            value={modalBodyField}
-                            onChange={e=>setModalBodyField(e.target.value)}
-                            disabled={modalLoading}
+                        <CLabel htmlFor="modal-file">Arquivo (pdf)</CLabel>
+                        <CInput
+                            type="file"
+                            id="file"
+                            name="file"
+                            placeholder="Escolha um arquivo"
+                            onChange={e=>setModalFileField(e.target.files[0])}
                         />
                     </CFormGroup>   
 
@@ -205,7 +219,7 @@ export default () =>{
                         disabled={modalLoading}
                         >
 
-                        Salvar
+                        {modalLoading ? 'Carregando' : 'Salvar'}
                             
                     </CButton>
 
